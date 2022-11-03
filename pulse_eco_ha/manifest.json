@@ -1,0 +1,11 @@
+{
+  "domain": "pulse_eco_ha",
+  "name": "pulse.eco",
+  "config_flow": true,
+  "documentation": "http://pulse.eco",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@aleksandarnikov"],
+  "iot_class": "cloud_polling",
+  "version": "0.1.0"
+}

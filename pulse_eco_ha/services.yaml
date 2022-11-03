@@ -1,0 +1,3 @@
+fetch:
+  name: PulseEcoFetch
+  description: Immediately fetch data from pulse.eco
